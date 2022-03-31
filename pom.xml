@@ -11,7 +11,7 @@
 
     <properties>
         <java.version>12</java.version>
-        <spring-webmvc.version>5.2.2.RELEASE</spring-webmvc.version>
+        <spring-webmvc.version>5.3.18</spring-webmvc.version>
         <lombok.version>1.18.10</lombok.version>
         <spring-devtools.version>2.2.2.RELEASE</spring-devtools.version>
         <spring-security.version>5.2.1.RELEASE</spring-security.version>
